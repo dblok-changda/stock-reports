@@ -1,0 +1,17 @@
+**Rating**: Underweight
+
+**Executive Summary**: Reduce AMD position by 25-35% at current levels (~$360) to de-risk near-term correction exposure while maintaining a core position for the long-term AI duopoly thesis. Set buy-back targets at $324-335 (10-EMA/10% pullback zone) and $280-290 if support fails; use protective puts at $320 strike as gap-risk insurance given the 2.4 Beta and unreliable stop-loss execution. Q1 earnings is the binary catalyst—re-evaluate positioning based on supply resolution guidance and earnings quality.
+
+**Investment Thesis**: The Underweight rating reflects a near-term risk/reward that is decisively unfavorable despite AMD's compelling long-term structural position as the only viable second source to NVIDIA in AI GPUs. Three converging factors make reducing exposure imperative:
+
+1. **Extreme technical overextension and momentum exhaustion:** AMD at 71% above its 200-day SMA is a statistical anomaly, not a sustainable trend. Negative RSI divergence (89→80 while price rose), a declining MACD histogram, and retreat inside Bollinger Bands signal textbook exhaustion. The Conservative analyst correctly notes that a 2.4 Beta stock with a $15.80 ATR does not "grind sideways"—it snaps. A 10%+ correction to the $324 area is the most probable near-term path, and stop losses at $335 are unreliable against gap risk given the stock's history of 20% two-day crashes.
+
+2. **Inflated earnings quality masking weak cash generation:** The Q4 numbers benefited from a $1.08B deferred tax benefit that inflated FCF. Stripping this out, the FCF yield is a mere 0.82% on a $558B market cap—unjustifiable for any stock, let alone one priced at 131x trailing earnings requiring a 330% EPS jump. The $7.92B inventory build is likely weighted toward WIP trapped on TSMC packaging lines, not finished product, creating risk of cash burn and margin compression if supply constraints persist (as HSBC's downgrade emphasizes).
+
+3. **Hostile macro environment amplifying downside asymmetry:** Oil above $100, Strait of Hormuz tensions, and institutional distribution signals (Cathie Wood's $72M sale, HSBC downgrade, May 4th 6% selloff while NVIDIA held steady) all point to rising risk-off pressure on high-beta semiconductors. The stock is priced for perfection in an imperfect macro environment.
+
+However, a full exit (Sell) would be an overreaction. The Neutral analyst's case for maintaining a core position is valid: AMD holds $6.7B in net cash, a 2.85 current ratio, 34% YoY revenue growth, and a PEG ratio of ~1.07. The AI duopoly thesis is structurally sound—hyperscalers need an alternative to NVIDIA's pricing power. A beat-and-raise at Q1 earnings could trigger a melt-up that punishes outright sellers. The 25-35% reduction is the correct calibration: it meaningfully reduces beta exposure at a point of maximum statistical extension, banks profits from the 66% April gain, creates dry powder for re-entry at $324-335, and preserves core exposure for the secular compounding thesis. Protective puts at $320 (1-2 month expiry) address the Conservative's valid gap-risk concern without sacrificing the upside optionality.
+
+**Price Target**: 324.0
+
+**Time Horizon**: 1-3 months
