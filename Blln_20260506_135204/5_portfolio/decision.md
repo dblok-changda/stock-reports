@@ -1,0 +1,13 @@
+**Rating**: Overweight
+
+**Executive Summary**: Initiate a gradual position in Blln with a 1.5-2% first tranche near current levels (~$79), scaling to a maximum 5% allocation only on price confirmation—not on weakness. Use the Bollinger Middle breakout above $81 as the trigger for the second tranche (1.5%) and reserve the final 1.5-2% for either a successful test of $64 support on declining volume or a reclaim of the 200-day SMA (~$87.87). Set a hard stop at $55 to accommodate the 8.2% ATR without premature shakeout. Time horizon: 6-12 months, keyed to Q1 2025 earnings confirmation.
+
+**Investment Thesis**: The Overweight rating reflects a genuine fundamental inflection colliding with bearish technicals and sector headwinds, creating an asymmetric opportunity—but one that demands disciplined execution rather than aggressive buying. The bull case is anchored in hard numbers: 113% YoY revenue growth, gross margin expansion from 57% to 71.4%, an operating income swing from -$11.69M to +$10.33M, and positive FCF of $9.21M. The Medicare LCD for North Star Select is a structural competitive moat competitors will take years to replicate, and the PEG ratio under 0.2 on 500%+ EPS growth is deeply undervalued if execution continues. The $496M cash position eliminates survival risk and provides a multi-year runway.
+
+However, the conservative analyst's concerns are not trivial. The death cross, lower highs, and 65% technical probability of a break below $72 mean near-term downside is real. Receivables growing faster than revenue is the single most important monitorable—if Medicare collections stall, the FCF thesis unravels. The $292M dilutive capital raise, $6.33M/quarter in SBC, and $3.45M/quarter in preferred dividends structurally disadvantage common shareholders. At 92x forward earnings, any execution miss triggers a violent de-rating.
+
+The neutral analyst's execution framework is the most defensible: do not scale into weakness in a confirmed downtrend. The aggressive plan to buy heavily at $64 assumes the March lows hold; if they don't, we're catching a falling anvil. Instead, we start small, let price action earn our conviction, and scale only on confirmation. The $55 stop (rather than $58) accounts for the 6.57 ATR and avoids the near-certain shakeout the conservative analyst correctly identified. Key catalysts to monitor: Q1 2025 A/R normalization, CMS reimbursement stability, and SBC trajectory. The single biggest thesis-breaker is a CMS rate review or NCD affecting North Star Select.
+
+**Price Target**: 88.0
+
+**Time Horizon**: 6-12 months
